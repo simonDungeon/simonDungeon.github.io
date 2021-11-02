@@ -30,7 +30,7 @@ body{
     left:0;
     right:0;
     bottom:0;
-    background-image: "bullseye-gradient.svg";
+    background-image: url("bullseye-gradient.svg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
