@@ -15,7 +15,7 @@ btnSignUp.onclick = function(){
 
 function displayDetails() {
     var Name = document.getElementById("name").value;
-    //document.getElementById("textBox").innerHTML = "Your Name is :" + Name;
-    alert(Name);
+    document.getElementById("textBox").innerHTML = "Your Name is :" + Name;
     
+
  }
