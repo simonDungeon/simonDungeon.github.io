@@ -12,3 +12,10 @@ btnSignUp.onclick = function(){
     signIn.classList.remove("active");
     signUp.classList.remove("inActive");
 }
+
+function displayDetails() {
+    var Name = document.getElementById("name").value;
+    //document.getElementById("textBox").innerHTML = "Your Name is :" + Name;
+    alert(Name);
+    
+ }
