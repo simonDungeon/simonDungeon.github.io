@@ -177,3 +177,11 @@ body{
    .slider input[type=”range”]::-webkit-slider-thumb:hover {
     background:#7E6D57;
    }
+  
+   .Box{
+    position: relative;
+   left: 600px;
+   bottom: 350px;
+   background:whitesmoke;
+   
+   }
